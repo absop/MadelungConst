@@ -1,0 +1,1801 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"location\tparam"
+			],
+			[
+				"m",
+				"m3\tdouble m3"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"AB",
+				"ABC"
+			],
+			[
+				"stru",
+				"struct\tstruct word"
+			],
+			[
+				"struc",
+				"struct\tstruct"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"a",
+				"wAD"
+			],
+			[
+				"Ma",
+				"Madelung"
+			],
+			[
+				"ma",
+				"Madelung"
+			],
+			[
+				"MadelungS",
+				"MadelungSC48"
+			],
+			[
+				"n2",
+				"n2"
+			],
+			[
+				"n1",
+				"n12"
+			],
+			[
+				"e",
+				"e2"
+			],
+			[
+				"N",
+				"N2"
+			],
+			[
+				"M",
+				"MadelungFFC8"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"与坐标轴",
+				"与坐标轴垂直的6条棱"
+			],
+			[
+				"n",
+				"n₁"
+			],
+			[
+				"Madelung",
+				"MadelungSC48"
+			],
+			[
+				"n3",
+				"n32"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"n₁",
+				"n₁n₂"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"_",
+				"\\_gamma\tᵧ"
+			],
+			[
+				"sqr",
+				"sqrt"
+			],
+			[
+				"sq",
+				"sqrt2"
+			],
+			[
+				"sqrt",
+				"sqrt3"
+			],
+			[
+				"0x",
+				"0x1"
+			],
+			[
+				"wh",
+				"weight"
+			],
+			[
+				"time",
+				"\\times\t×"
+			],
+			[
+				"ed2",
+				"edge2-frame"
+			],
+			[
+				"make",
+				"make-frame"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"fra",
+				"frame-coord-map"
+			],
+			[
+				"pin",
+				"painter"
+			],
+			[
+				"pl",
+				"paint-left"
+			],
+			[
+				"mv",
+				"make-vect"
+			],
+			[
+				"mak",
+				"make-vect"
+			],
+			[
+				"pain",
+				"painter"
+			],
+			[
+				"sidebop",
+				"side_bar_open_files\tContextTips"
+			],
+			[
+				"sub",
+				"sublime_plugin\tmodule"
+			],
+			[
+				"is",
+				"isfile\tfunction"
+			],
+			[
+				"SiFl",
+				"SideBarFileCommand\tclass"
+			],
+			[
+				"Q",
+				"Q_rsqrt"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"pri",
+				"print210"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"cl",
+				"column"
+			],
+			[
+				"R",
+				"Rs"
+			],
+			[
+				"pr",
+				"print_digits"
+			],
+			[
+				"di",
+				"digits10"
+			],
+			[
+				"prn",
+				"printn"
+			],
+			[
+				"prnt",
+				"println"
+			],
+			[
+				"fun",
+				"fun\tfunction definition"
+			],
+			[
+				"prim",
+				"primes"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"p",
+				"vectorPowMul"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"big",
+				"bitger"
+			],
+			[
+				"bit",
+				"bitstype"
+			],
+			[
+				"v",
+				"vectorPowMul"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"len",
+				"len"
+			],
+			[
+				"pd",
+				"products"
+			],
+			[
+				"pus",
+				"push"
+			],
+			[
+				"prime",
+				"primes"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"vm",
+				"vectorMul"
+			],
+			[
+				"th",
+				"thrprime"
+			],
+			[
+				"INt",
+				"Int64"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"Int",
+				"Int64"
+			],
+			[
+				"fa1",
+				"fact11"
+			],
+			[
+				"sin",
+				"single"
+			],
+			[
+				"dou",
+				"double"
+			],
+			[
+				"end",
+				"endi"
+			],
+			[
+				"sig",
+				"single"
+			],
+			[
+				"fac",
+				"factorial"
+			],
+			[
+				"pai",
+				"pairs"
+			],
+			[
+				"pa",
+				"pairs"
+			],
+			[
+				"nm",
+				"number"
+			],
+			[
+				"pair",
+				"pair"
+			],
+			[
+				"fa",
+				"facs"
+			],
+			[
+				"primE",
+				"primeExp"
+			],
+			[
+				"exn",
+				"expnum"
+			],
+			[
+				"fibd",
+				"fibdict"
+			],
+			[
+				"fib",
+				"fibxy"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"fibon",
+				"fibonacci"
+			],
+			[
+				"In",
+				"Int64"
+			],
+			[
+				"be",
+				"BenchmarkTools"
+			],
+			[
+				"sqrt_ma",
+				"sqrt_maxn"
+			],
+			[
+				"inbo",
+				"inbounds"
+			],
+			[
+				"fibonacci_r",
+				"fibonacci_rec"
+			],
+			[
+				"b",
+				"bit"
+			],
+			[
+				"iii",
+				"\\iiiint\t⨌"
+			],
+			[
+				"i",
+				"\\in\t∈"
+			],
+			[
+				"mem",
+				"memory"
+			],
+			[
+				"sum",
+				"sum_square"
+			],
+			[
+				"bits",
+				"bitstring"
+			],
+			[
+				"inde",
+				"index\t(2048AI.py)"
+			],
+			[
+				"sm",
+				"sqrt-max"
+			],
+			[
+				"lf",
+				"left\t(grid.js)"
+			],
+			[
+				"load",
+				"load_record"
+			],
+			[
+				"set",
+				"setup"
+			],
+			[
+				"grid",
+				"grids"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"ca",
+				"callback\t(grid.js)"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"cons",
+				"console.log\t(grid.js)"
+			],
+			[
+				"con",
+				"console.log\t(grid.js)"
+			],
+			[
+				"sel",
+				"self\tparam"
+			],
+			[
+				"impo",
+				"import\t(2048auto(rank4).py)"
+			],
+			[
+				"dec",
+				"deepcopy\t(2048auto.py)"
+			],
+			[
+				"with",
+				"within_bounds\t(search.py)"
+			],
+			[
+				"game",
+				"game_over\t(2048auto.py)"
+			],
+			[
+				"shi",
+				"shift_cells"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"start",
+				"start_game"
+			],
+			[
+				"gam",
+				"game"
+			],
+			[
+				"FO",
+				"FOREGROUND"
+			],
+			[
+				"ser",
+				"setter"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"coord_",
+				"coord_pair\t(2048auto.py)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "# 提示：\n\n## Sublime Text代码编辑器 ![http://www.sublimetext.com/]\n* Sublime Text的功能和特点:\n    * 高效快捷，优雅美丽，小巧而精致，高度自定义，强大而友好的的社区\n    * 快速查找、替换(支持正则表达式)，跳转，多光标同时编辑\n    * 语法高亮，支持多种语言，丰富的插件和编辑功能\n    * 强大的插件系统，以流行的脚本语言Python作为主要插件开发语言\n    * ...\n\n## 声明\n* 本软件为免费软件，初次运行，可能会稍微慢一点。\n* Sublime Text为付费软件，但可以无限期免费使用(有时会弹出一个请求购买的小窗口，点击取消继续编辑就行)\n* 嵌入了C语言编译器Tingcc，Tinycc编译器速度很快，但是没有安装足够的库和头文件以用于开发，仅适合用于学习。\n* 此软件里面安装有EasyClangComplete、ClangFormat这两个插件(代码自动提示补全和代码格式化)，但是需要你在自己电脑上安装LLVM(一个编译平台)并配置一下它才能正常使用。\n\n## 提示\n* Ctrl+Alt+F也格式化代码(使代码缩进优雅，更易读)\n* Ctrl+Alt+S查看快捷键，左边栏为Sublime默认的快捷键配置，右边为User自定义的快捷键\n* 主题和配色更换：\n    * 菜单栏Preferences菜单中的Color Scheme和Theme可进行主题和配色的更换\n    * 按Ctrl+Shift+P，输入ui:select可看到主题或配色更换的命令，按回车键进入更换\n* 如果要运行代码，请按F7(按F5亦可，F7有多种选择)，会有几个选项：\n    * Tinycc-win64：编译C语言代码并生成可执行文件，不运行；\n    * Tinycc-win64-Run：用Tcc运行并直接在Sublime里面输出，不能输入，因此如果代码里面有scanf、gets等函数，请勿使用此选项；\n    * Tinycc-win64-RunInConsole: 在控制台运行，可以输入(使用scanf、gets等函数)。\n* 按Ctrl+s把示例的C语言代码(NaCl.c和NaCl_CsCl_48.c)保存到你电脑上任何一个地方，然后运行一下它以检测一下是否能够正常运行。\n\n## 祝你愉快地开启代码之旅\n\"\"\"\n\n          ┌─┐       ┌─┐\n       ┌──┘ ┴───────┘ ┴──┐\n       │                 │\n       │       ───       │\n       │  ─┬┘       └┬─  │\n       │                 │\n       │       ─┴─       │\n       │                 │\n       └───┐         ┌───┘\n           │         │\n           │         │\n           │         │\n           │         └──────────────┐\n           │                        │\n           │                        ├─┐\n           │                        ┌─┘\n           │                        │\n           └─┐  ┐  ┌───────┬──┐  ┌──┘\n             │ ─┤ ─┤       │ ─┤ ─┤\n             └──┴──┘       └──┴──┘\n                 神兽保佑\n                 代码无BUG!\n\n\"\"\"",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Windows",
+				"name": "提示"
+			}
+		},
+		{
+			"contents": "// 语言: C\n\n#include <math.h>\n#include <stdio.h>\n#include <time.h>\n\n\n// NaCl简单立方, 计算xyz正半轴空间的所有原子对原点处原子的静电作用力总和\n// 这个作用力为全部空间的原子对原点处的原子的作用力的1/8，所以结果要乘以8\ndouble NaCl8(int N) {\n  // 如果N为奇数，N = N + 1，N为偶数则不变\n  N = N + (N & 0x1);\n  double m1 = 0.0, m2 = 0.0, m3 = 0.0;\n  double e1 = 1.0, e2 = 1.0, e3 = 1.0;\n  double n12, AB, N2 = N * N;\n\n  // n1, n2, n3 皆从1开始，这是因为面上或棱上的原子需要特殊考虑\n  // 面上的原子只能取1/2；棱上或轴上的原子取1/4；顶点处的原取1/8\n  for (int n1 = 1; n1 < N; ++n1) {\n    // 第一层循环，计算棱上的原子的作用，棱上原子取权值1/4\n    // 一共12条棱，分3类:\n    // 3条等效的坐标轴，   xyz中有2个为0\n    // 3条与坐标轴相对的棱，xyz中有2个为N\n    // 6条与坐标轴垂直的棱，xyz中有1个为N，1个为0\n    e1 = e2 = -e1;  // e1表示x轴上第n1个原子的电性，正负交替出现\n    n12 = n1 * n1;  // 记录n1的平方值，在内层循环中，n1的平方不变\n    m1 += e1 / n1;  // 3条坐标轴等效，m1的权值为3 × 1/4 = 0.75\n    m1 += e1 / sqrt(n12 + 2 * N2); // 与坐标轴平行的3条棱等效，3 × 1/4 = 0.75\n    m2 += e1 / sqrt(n12 + N2);     // 与坐标轴垂直的6条棱等效，6 × 1/4 = 1.5\n\n    for (int n2 = 1; n2 < N; ++n2) {\n      // 第二层循环，计算面上的原子的作用，面上原子取权值1/2\n      AB = n12 + n2 * n2;   // AB记录(n1^2 + n2^2)的值，内层循环中保持不变\n      e2 = e3 = -e2;        // e1保持不变，e2正负交替出现\n      // 边界面上的原子，自由度为2，其xyz取值要么有一个为0，要么有一个为N\n      // m2为边界面上的原子的累加，6个面中，3个坐标面等效，3个与坐标面相对的面亦等效\n      // 3个面只计算其中1个然后乘3，每个原子取1/2，m2的权值为3 × 1/2 = 1.5\n      m2 += e2 / sqrt(AB);      // 3个坐标面，xyz有一个为0\n      m2 += e2 / sqrt(AB + N2); // 3个与坐标面相对的面，xyz中有一个为N\n      for (int n3 = 1; n3 < N; ++n3) {\n        // 第三层循环，计算内部空间原子的作用，内部原子取权值1\n        e3 = -e3;  // e1, e2保持不变，e3正负交替出现\n        m3 += e3 / sqrt(AB + n3 * n3);  // m3为内部原子作用的叠加，权值为1\n      }\n    }\n  }\n  // 顶点处共7个原子，分三类：\n  // 3个与原点的距离为N; 3个与原点的距离为√2N; 1个与原点的距离为√3N\n  // 由于顶点原子被8个晶胞所占用，每个原子只能取其1/8, 当N很大时，可不必考虑这么仔细，此项可忽略\n  // 3 × 1/8 ×(1/N + 1/(√2N)) + 1/(√3N) = (3 + 3/√2 + 1/√3)/8N = 0.7123338265936585/N\n  return -8 * (0.75 * m1 + 1.5 * m2 + m3 + 0.7123338265936585/N);\n}\n\n// 测试函数，可忽略\nvoid test(double (*Madelung)(int)) {\n  clock_t start, finish;\n\n  for (int i = 2; i < 10; i += 2) {\n    printf(\"%d\\t=>\\t%lf\\n\", i, Madelung(i));\n  }\n\n  start = clock();\n  printf(\"%d\\t=>\\t%lf\\n\", 500, Madelung(500));\n  finish = clock();\n  printf(\"elapsed time: %ldms\\n\\n\", finish - start);\n}\n\n\nint main() {\n\n  test(NaCl8);\n\n  return 0;\n}\n\n\n/*\n这是计算结果:\n2   =>  1.751769\n4   =>  1.747721\n6   =>  1.747596\n8   =>  1.747574\n500 =>  1.747565\nelapsed time: 1256ms\n\n[Finished in 1.4s]\n\n*/",
+			"settings":
+			{
+				"buffer_size": 2268,
+				"line_ending": "Windows",
+				"name": "NaCl8.c"
+			}
+		},
+		{
+			"contents": "// 语言: C\n\n\n/*\n *        quu..__\n *         $$$b  `---.__\n *          \"$$b        `--.                          ___.---uuudP\n *           `$$b           `.__.------.__     __.---'      $$$$\"              .\n *             \"$b          -'            `-.-'            $$$\"              .'|\n *               \".                                       d$\"             _.'  |\n *                 `.   /                              ...\"             .'     |\n *                   `./                           ..::-'            _.'       |\n *                    /                         .:::-'            .-'         .'\n *                   :                          ::''\\          _.'            |\n *                  .' .-.             .-.           `.      .'               |\n *                  : /'$$|           .@\"$\\           `.   .'              _.-'\n *                 .'|$u$$|          |$$,$$|           |  <            _.-'\n *                 | `:$$:'          :$$$$$:           `.  `.       .-'\n *                 :                  `\"--'             |    `-.     \\\n *                :##.       ==             .###.       `.      `.    `\\\n *                |##:                      :###:        |        >     >\n *                |#'     `..'`..'          `###'        x:      /     /\n *                 \\                                   xXX|     /    ./\n *                  \\                                xXXX'|    /   ./\n *                  /`-.                                  `.  /   /\n *                 :    `-  ...........,                   | /  .'\n *                 |         ``:::::::'       .            |<    `.\n *                 |             ```          |           x| \\ `.:``.\n *                 |                         .'    /'   xXX|  `:`M`M':.\n *                 |    |                    ;    /:' xXXX'|  -'MMMMM:'\n *                 `.  .'                   :    /:'       |-'MMMM.-'\n *                  |  |                   .'   /'        .'MMM.-'\n *                  `'`'                   :  ,'          |MMM<\n *                    |                     `'            |tbap\\\n *                     \\                                  :MM.-'\n *                      \\                 |              .''\n *                       \\.               `.            /\n *                        /     .:::::::.. :           /\n *                       |     .:::::::::::`.         /\n *                       |   .:::------------\\       /\n *                      /   .''               >::'  /\n *                      `',:                 :    .'\n *                                           `:.:'\n */\n\n\n#include <math.h>\n#include <stdio.h>\n#include <time.h>\n\nconst double B = 0.1767766952966369;  // √2/8\nconst double C = 0.09622504486493762; // √3/18\nconst double D = 0.2212250448649376;  // (1/8 + √3/18)\nconst double E = 0.39800174016157447; // (1/8 + √2/8 + √3/18)\nconst double F = 0.11872230443227642; // (1 + √2/2 + √3/9)/16\n\n\n// NaCl面心立方，48等分\ndouble NaCl48(int N) {\n  N = N + (N & 0x1);\n  double m1 = 0, m2 = 0, m3 = 0, m4 = 0;\n  double e1 = 1, e2 = 1, e3 = 1, m5 = 0;\n  double n12, n22, AB, N2 = N * N;\n\n  for (int n1 = 1; n1 < N; ++n1) {\n    e1 = e2 = -e1;\n    n12 = n1 * n1;\n    // 坐标轴上: 1/8\n    // 面对角线: 1/4 × 1/√2 = √2/8\n    // 体对角线: 1/6 × 1/√3 = √3/18\n    m1 += (B + e1 * D) / n1;\n    m4 += 1.0 / sqrt(N2 + 2 * n12); // x = N, y = z, 1/4\n    m4 += e1 / sqrt(N2 + n12);      // x = N, z = 0, 1/4\n    m5 += e1 / sqrt(2 * N2 + n12);  // x = N, y = N, 1/8\n\n    for (int n2 = n1 + 1; n2 < N; ++n2) {\n      e2 = -e2, e3 = e1 * e2;\n      n22 = n2 * n2, AB = n12 + n22;\n      // 在三棱锥面上的原子, 1/2\n      m2 += e3 / sqrt(AB);       // z = 0\n      m2 += e3 / sqrt(AB + N2);  // x = N\n      m2 += e2 / sqrt(AB + n12); // x = y\n      m2 += e1 / sqrt(AB + n22); // y = z\n      // 三棱锥内部的原子\n      e3 *= e2;\n      for (int n3 = n2 + 1; n3 < N; ++n3) {\n        e3 = -e3;\n        m3 += e3 / sqrt(AB + n3 * n3);\n      }\n    }\n  }\n  m3 += m4 / 4 + m5 / 8 + F / N;\n  return -48 * (m1 + m2 / 2 + m3);\n}\n\n\n// CsCl 简单立方, 48等分\ndouble CsCl48(int N) {\n  N = N + (N & 0x1);\n  double n12, n22, AB, N2 = N * N;\n  double negative = 0, positive = 0;\n\n  for (int n1 = 1; n1 < N; n1 += 2) {\n    // 体对角线: 1/6 × 1/√3 = √3/18 = C\n    negative -= C / n1;\n    n12 = n1 * n1;\n    for (int n2 = n1 + 2; n2 < N; n2 += 2) {\n      n22 = n2 * n2;\n      AB = n12 + n22;\n      // 在三棱锥面上的原子, 1/2\n      negative -= 0.5 / sqrt(AB + n12); // x = y, 1/2\n      negative -= 0.5 / sqrt(AB + n22); // y = z, 1/2\n      // 三棱锥内部的原子\n      for (int n3 = n2 + 2; n3 < N; n3 += 2) {\n        negative -= 1 / sqrt(AB + n3 * n3);\n      }\n    }\n  }\n  for (int n1 = 2; n1 < N; n1 += 2) {\n    // 坐标轴上: 1/8\n    // 面对角线: 1/4 × 1/√2 = √2/8\n    // 体对角线: 1/6 × 1/√3 = √3/18\n    n12 = n1 * n1;\n    positive += E / n1;                     // E = (1/8 + √2/8 + √3/18)\n    positive += 0.125 / sqrt(2 * N2 + n12); // x = N, y = N, 1/8\n    positive += 0.250 / sqrt(N2 + 2 * n12); // x = N, y = z, 1/4\n    positive += 0.250 / sqrt(N2 + n12);     // x = N, z = 0, 1/4\n    for (int n2 = n1 + 2; n2 < N; n2 += 2) {\n      n22 = n2 * n2;\n      AB = n12 + n22;\n      // 在三棱锥面上的原子, 1/2\n      positive += 0.5 / sqrt(AB);       // z = 0, 1/2\n      positive += 0.5 / sqrt(AB + N2);  // x = N, 1/2\n      positive += 0.5 / sqrt(AB + n12); // x = y, 1/2\n      positive += 0.5 / sqrt(AB + n22); // y = z, 1/2\n      // 三棱锥内部的原子\n      for (int n3 = n2 + 2; n3 < N; n3 += 2) {\n        positive += 1 / sqrt(AB + n3 * n3);\n      }\n    }\n  }\n  positive += F / N;\n  return -48 * (negative + positive);\n}\n\n\nvoid test(double (*Madelung)(int)) {\n  clock_t start, finish;\n\n  for (int i = 2; i < 10; i += 2) {\n    printf(\"%d\\t=>\\t%lf\\n\", i, Madelung(i));\n  }\n\n  start = clock();\n  printf(\"%d\\t=>\\t%lf\\n\", 1000, Madelung(1000));\n  finish = clock();\n  printf(\"elapsed time: %dms\\n\\n\", finish - start);\n}\n\n\nint main() {\n  test(NaCl48);\n  test(CsCl48);\n\n  return 0;\n}\n\n\n/*\n2   =>  1.751769\n4   =>  1.747721\n6   =>  1.747596\n8   =>  1.747574\n1000    =>  1.747565\nelapsed time: 1275ms\n\n2   =>  1.769467\n4   =>  1.791172\n6   =>  1.797751\n8   =>  1.800077\n1000    =>  1.803079\nelapsed time: 956ms\n */",
+			"settings":
+			{
+				"buffer_size": 6122,
+				"line_ending": "Windows",
+				"name": "NaCl_CsCl_48.c"
+			}
+		},
+		{
+			"contents": "# 语言: Julia\n# https://julialang.org\n\n\"\"\"\n\n                      .::::.\n                    .::::::::.\n                   :::::::::::\n                ..:::::::::::'\n             '::::::::::::'\n               .::::::::::\n          '::::::::::::::..\n               ..::::::::::::.\n             ``::::::::::::::::\n              ::::``:::::::::'        .:::.\n             ::::'   ':::::'       .::::::::.\n           .::::'      ::::     .:::::::'::::.\n          .:::'       :::::  .:::::::::' ':::::.\n         .::'        :::::.:::::::::'      ':::::.\n        .::'         ::::::::::::::'         ``::::.\n    ...:::           ::::::::::::'              ``::.\n   ```` ':.          ':::::::::'                  ::::..\n                      '.:::::'                    ':'````..\n\"\"\"\n\n\n# Nacl面心立方，48等分\nfunction NaCl48(N::Int64)\n    m₁, m₂, m₃, m₄, m₅ = 0.0, 0.0, 0.0, 0.0, 0.0\n    N = N + (N & 0x1)\n    e₁, N² = 1.0, N^2\n    for n₁ ∈ 1:N-1\n        e₁ = e₂ = -e₁\n        n₁² = n₁^2\n        # 坐标轴上: 1/8\n        # 面对角线: 1/4 × 1/√2 = √2/8\n        # 体对角线: 1/6 × 1/√3 = √3/18\n        m₁ += (√2/8 + e₁ * (1/8 + √3/18)) / n₁\n        m₄ += 1.0/ √(N² + 2n₁²)  # x = N, y = z, 1/4\n        m₄ += e₁ / √(N² + n₁²)   # x = N, z = 0, 1/4\n        m₅ += e₁ / √(2N² + n₁²)  # x = N, y = N, 1/8\n        for n₂ ∈ n₁+1:N-1\n            n₂² = n₂^2\n            AB = n₁² + n₂²\n            e₂ = -e₂\n            e₃ = e₁ * e₂\n            # 在三棱锥面上的原子, 1/2\n            m₂ += e₃ / √(AB)       # z = 0\n            m₂ += e₃ / √(AB + N²)  # x = N\n            m₂ += e₂ / √(AB + n₁²) # x = y\n            m₂ += e₁ / √(AB + n₂²) # y = z\n            # 三棱锥内部的原子\n            e₃ *= e₂\n            for n₃ ∈ n₂+1:N-1\n                e₃ = -e₃\n                m₃ += e₃ / √(AB + n₃^2)\n            end\n        end\n    end\n    m₃ += m₄/4 + m₅/8 + (1 + √2/2 + √3/9)/16N\n    return -48(m₁ + m₂/2 + m₃)\nend\n\n\n# CsCl简单立方, 48等分\nfunction CsCl48(N::Int64)\n    N = N + (N & 0x1)\n    negative, positive, N² = 0.0, 0.0, N^2\n    for n₁ ∈ 1:2:N\n        # 体对角线: 1/6 × 1/√3 = √3/18\n        negative -= √3/18 / n₁\n        n₁² = n₁^2\n        for n₂ ∈ n₁+2:2:N\n            n₂² = n₂^2\n            AB = n₁² + n₂²\n            # 在三棱锥面上的原子, 1/2\n            negative -= 1/2 / √(AB + n₁²)  # x = y\n            negative -= 1/2 / √(AB + n₂²)  # y = z\n            # 三棱锥内部的原子\n            for n₃ ∈ n₂+2:2:N\n                negative -= 1 / √(AB + n₃^2)\n            end\n        end\n    end\n    for n₁ ∈ 2:2:N-2\n        # 坐标轴上: 1/8\n        # 面对角线: 1/4 × 1/√2 = √2/8\n        # 体对角线: 1/6 × 1/√3 = √3/18\n        n₁² = n₁^2\n        positive += (1/8 + √2/8 + √3/18) / n₁\n        positive += 1/8 / √(2N² + n₁²)  # x = N, y = N\n        positive += 1/4 / √(N² + 2n₁²)  # x = N, y = z\n        positive += 1/4 / √(N² + n₁²)   # x = N, z = 0\n        for n₂ ∈ n₁+2:2:N-2\n            n₂² = n₂^2\n            AB = n₁² + n₂²\n            # 在三棱锥面上的原子, 1/2\n            positive += 1/2 / √(AB)        # z = 0\n            positive += 1/2 / √(AB + N²)   # x = N\n            positive += 1/2 / √(AB + n₁²)  # x = y\n            positive += 1/2 / √(AB + n₂²)  # y = z\n            # 三棱锥内部的原子\n            for n₃ ∈ n₂+2:2:N-2\n                positive += 1 / √(AB + n₃^2)\n            end\n        end\n    end\n    positive += (1 + √2/2 + √3/9)/16N\n    return -48(negative + positive)\nend\n\nfunction test(Madelung)\n    for n₁ in 2:2:10\n        println(\"$n₁\\t=>\\t$(Madelung(n₁))\")\n    end\n    n₁ = 1000\n    while n₁ < 3000\n        @time println(\"$n₁\\t=>\\t$(Madelung(n₁))\")\n        n₁ <<= 1\n    end\nend\n\ntest(NaCl48)\ntest(CsCl48)\n\n# 计算结果\n\"\"\"\n2   =>  1.751769133336938\n4   =>  1.7477211096310752\n6   =>  1.7475955168854718\n8   =>  1.747574381725519\n10  =>  1.7475686037718035\n1000    =>  1.7475645941383142\n  0.705376 seconds (16 allocations: 560 bytes)\n2000    =>  1.7475645924003231\n  5.504847 seconds (16 allocations: 560 bytes)\n2   =>  1.7694668471423713\n4   =>  1.7911720212677862\n6   =>  1.7977509679898471\n8   =>  1.8000773468837608\n10  =>  1.8011566188366785\n1000    =>  1.8030793477082625\n  0.171566 seconds (16 allocations: 560 bytes)\n2000    =>  1.8030744069255888\n  1.347095 seconds (17 allocations: 960 bytes)\n[Finished in 8.3s]\n\"\"\"",
+			"settings":
+			{
+				"buffer_size": 4118,
+				"line_ending": "Windows",
+				"name": "NaCl_CsCl_48.jl"
+			}
+		}
+	],
+	"build_system": "Packages/User/Tinycc/TinyCC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/GCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc-win64/Tinycc-win64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc-win64/Tinycc-win64.sublime-build",
+					"run"
+				]
+			],
+			[
+				"Packages/User/Tinycc-win64/Tinycc-win64.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/GCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Tinycc/TinyCC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/GCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					"RunInConsole"
+				]
+			],
+			[
+				"Packages/User/Tinycc/TinyCC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/GCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					"run"
+				]
+			],
+			[
+				"Packages/User/Tinycc/TinyCC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				"Performance"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				"Performance"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				],
+				[
+					"Packages/User/Julia.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/IJulia/julia-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Julia.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/IJulia/julia-build.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Package/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/PackageDev/Package/Convert to ....sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/GCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc/TinyCC.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Tinycc/TinyCC.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Scheme/Scheme.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Scheme/Scheme.sublime-build",
+					"Petite"
+				]
+			],
+			[
+				"Packages/User/Scheme/Scheme.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Tinycc-win64/Tinycc-win64.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Tinycc-win64/Tinycc-win64.sublime-build",
+					"run"
+				]
+			],
+			[
+				"Packages/User/Tinycc-win64/Tinycc-win64.sublime-build",
+				"run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"setJu",
+				"Set Syntax: Julia"
+			],
+			[
+				"pclist",
+				"Package Control: List Packages"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"uisel",
+				"UI: Select Color Scheme"
+			],
+			[
+				"setmakd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"setc",
+				"Set Syntax: C"
+			],
+			[
+				"set",
+				"Set Syntax: C"
+			],
+			[
+				"pcdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcexac",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"opre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"claf",
+				"Clang Format: Select Style"
+			],
+			[
+				"setC",
+				"Set Syntax: C"
+			],
+			[
+				"setJul",
+				"Set Syntax: Julia"
+			],
+			[
+				"easyc",
+				"EasyClangComplete: Show popup info"
+			],
+			[
+				"eashow",
+				"EasyClangComplete: Show all errors"
+			],
+			[
+				"setc++",
+				"Set Syntax: C++"
+			],
+			[
+				"pcenab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcexa",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pcena",
+				"Package Control: Enable Package"
+			],
+			[
+				"key",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"pcdisp",
+				"Package Control: Disable Package"
+			],
+			[
+				"pc",
+				"Package Control: Enable Package"
+			],
+			[
+				"setJUli",
+				"Set Syntax: Julia"
+			],
+			[
+				"cla",
+				"Clang Format: Select Style"
+			],
+			[
+				"art",
+				"Arithmetic"
+			],
+			[
+				"arit",
+				"Arithmetic"
+			],
+			[
+				"setmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pclis",
+				"Package Control: List Packages"
+			],
+			[
+				"paclis",
+				"Package Control: List Packages"
+			],
+			[
+				"setjul",
+				"Set Syntax: Julia"
+			],
+			[
+				"sepla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"setju",
+				"Set Syntax: Julia"
+			],
+			[
+				"setjulia",
+				"Set Syntax: Julia"
+			],
+			[
+				"arith",
+				"Arithmetic"
+			],
+			[
+				"pcen",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcend",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"pacen",
+				"Package Control: Enable Package"
+			],
+			[
+				"inset",
+				"Insert Filepath"
+			],
+			[
+				"cat",
+				"Convert Case: Title Case"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"cast",
+				"Convert Case: Title Case"
+			],
+			[
+				"setplat",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ari",
+				"Arithmetic"
+			],
+			[
+				"setsche",
+				"Set Syntax: Scheme"
+			],
+			[
+				"setJulia",
+				"Set Syntax: Julia"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"caset",
+				"Convert Case: Title Case"
+			],
+			[
+				"setp",
+				"Set Syntax: Python"
+			],
+			[
+				"ct",
+				"Convert Case: Title Case"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"prettf",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"setpy",
+				"Set Syntax: Python"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pythonfix",
+				"Python Fix Imports"
+			],
+			[
+				"fla",
+				"User: Python Flake8 Lint"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"view.set_name(\"NaCl_CsCl_48.jl\")",
+			"view.set_name(\"NaCl_CsCl_48.c\")",
+			"view.set_name(\"NaCl8.c\")",
+			"view.set_name(\"NaCl_CsCl_48\")",
+			"view.set_name(\"NaCl8\")",
+			"view.set_name(\"提示\")",
+			"sublime.log_commands(True)",
+			"sublime.ENCODED_POSITION",
+			"sublime.log_commands(True)",
+			"view.run_command(\"delete_after\")",
+			"sublime.log_commands(True)",
+			"sublime.logcomands(True)",
+			"sublime.logcommands(True)",
+			"sublime.log_commands(True)",
+			"a",
+			"[print(i) for i in range(-1)]",
+			"range(-1)",
+			"math.log2(4)",
+			"import math",
+			"a",
+			"a = [[a[j][i] for j in range(len(a))] for i in range(len(a))]",
+			"[print(i) for i in a]",
+			"[print() for i in a]",
+			"print(a[:])",
+			"print(a[::])",
+			"pprint.pprint(a)",
+			"a",
+			"a = [[a[i][j] for i in range(len(a))] for j in range(len(a))]",
+			"a",
+			"a = [[a[j][i] for i in range(len(a))] for j in range(len(a))]",
+			"a = [[1,2,3], [4,5, 6], [7, 8, 9]]",
+			"a",
+			"a = [[a[j][i] for i in range(len(a))] for j in range(len(a))]",
+			"a = [[a[j][i] for i in range(len(a))] for j in range(i+1, len(a))]",
+			"a",
+			"a = [a[j][i] for i in range(len(a)) for j in range(i+1, len(a))]",
+			"a = [a[j][i] for i in range(len(a)) for j in range(i+1, len(a)))]",
+			"a = [a[j][i] for i in range(len(a)) for j in range(len(i+1, len(a)))]",
+			"a = [[1,2,3], [4,5, 6], [7, 8, 9]]",
+			"[print(a) for a in a]",
+			"a = [b[::-1] for b in a]",
+			"a = [[1,2,3], [4,5, 6], [7, 8, 9]]",
+			"[print(a) for a in a]",
+			"a = [b for b in a][::-1]",
+			"[print(a) for a in a]",
+			"a = [[1,2,3], [4,5, 6], [7, 8, 9]]",
+			"[print(a) for a in a]",
+			"a",
+			"a = [b for b in a][::-1]",
+			"[print(a) for a in a]",
+			"a = [b[::-1] for b in a][::-1]",
+			"[print(a) for a in a]",
+			"a = [b[::-1] for b in a][::-1]",
+			"a = [[1,2,3], [4,5, 6], [7, 8, 9]]",
+			"[print(a) for a in a]",
+			"a",
+			"a = [b[::-1] for b in a]",
+			"[print(a) for a in a]",
+			"[print(b) for b in a]",
+			"pprint.pprint(a)",
+			"pprint.print(a)",
+			"import pprint",
+			"a",
+			"a = [b[::-1] for b in a][::-1]",
+			"a = [[1,2,3], [4,5, 6], [7, 8, 9]]",
+			"x",
+			"(x, y) = (1, 2)",
+			"a[1] =0",
+			"a = (12,23)",
+			"{1:2,3:4}.keys()",
+			"{1:2,3:4}.keys()[0]",
+			"{1:2,3:4}.keys()[1]",
+			"{1:2,3:4}.keys()",
+			"{1:2,3:4}",
+			"\"a\".isdigit()",
+			"1.isdigit()",
+			"\"1\".isdigit()",
+			"\"1\".isnumber()",
+			"\"1\".isnum()",
+			"sorted(dic, key=lambda x: dic[x][\"s\"])",
+			"dic = {\"u\": {\"s\": 12}, \"d\": {\"s\": 34}, \"l\": {\"s\": 65}, \"r\": {\"s\": 23}}",
+			"dic = {\"u\": {\"s\": 12}, d: {\"s\": 34}, l: {\"s\": 65}, r: {\"s\": 23}}",
+			"dic = {u: {\"s\": 12}, d: {\"s\": 34}, l: {\"s\": 65}, r: {\"s\": 23}}",
+			"id(a[1])",
+			"id(a[2])",
+			"id(a[1])",
+			"a",
+			"a [2] = 7",
+			"id(a[4])",
+			"id(a[3])",
+			"id(a[2])",
+			"id(a[1])",
+			"id(a[0])",
+			"a",
+			"a = [2] * 4",
+			"(2,1)*2",
+			"(2,1)**2",
+			"(2,2)*(1,2)",
+			"2*(1,2)",
+			"(1,2)*2",
+			"z = [[2, 32, 512, 2], [4, 64, 1024, 2], [8, 128, 2048, 4], [16, 256, 4096, 8]]",
+			"x[::-1]",
+			"sorted(x)",
+			"x = [\"#642100\", \"#842B00\", \"#A23400\", \"#BB3D00\", \"#D94600\", \"#F75000\", \"#FF5809\", \"#FF8040\", \"#FF8F59\", \"#FF9D6F\", \"#FFAD86\", \"#FFBD9D\", \"#FFCBB3\", \"#FFDAC8\", \"#FFE6D9\", \"#FFF3EE\"]",
+			"a",
+			"a.insert(0, 12)",
+			"a = []",
+			"_",
+			"[].insert(0, 12)",
+			"window.run_command(\"animation\", {\"strings\": list(\"12345678\"), \"delay\": 500})",
+			"(1, 2) == x",
+			"x = (1, 2)",
+			"sublime.log_commands(True)",
+			"view.run_command(\"color_highlighter_next_color\")",
+			"sublime.log_commands(True)",
+			"[a[i][j] = (i, j) for i in range(scale) for j in range(scale)]",
+			"for i in range(scale):;for j in range(scale):;a[i][j] = (i, j)",
+			"for i in range(scale):",
+			"a[i][j] = i ",
+			"a",
+			"a = [[0] * scale] * scale",
+			"a",
+			"a = [[[0] * scale] * scale]",
+			"[[0 for i in range(scale)] for j in range(scale)]",
+			"[[[0] for i in range(scale)] for j in range(scale)]",
+			"[[0] for i in range(scale) for j in range(scale)]",
+			"scale = 4",
+			"window.run_command(\"animation\", {\"strings\": list(\"12345\")})"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/叶芝秋/Desktop/Madalung/Madelung48.c"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 162.0,
+		"where_history":
+		[
+			"D:\\DATA\\julia-master",
+			"D:\\Julia\\Julia-1.0.0",
+			"D:\\DATA\\Code\\Julia\\factorial",
+			"D:\\DATA\\Code\\Julia",
+			"D:\\DATA\\julia-master",
+			"D:\\DATA\\Code\\Julia",
+			"D:\\DATA\\julia-master",
+			"D:\\DATA\\Python-3.7.0, *.py",
+			"D:\\DATA\\Python-3.7.0; *.py",
+			"D:\\DATA\\Python-3.7.0; *.c"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"</dict><dict>",
+			"CsCl8",
+			"comment",
+			"coment",
+			"tra",
+			"N2",
+			"n12",
+			"n22",
+			"E",
+			"D",
+			"C",
+			"B",
+			"\\",
+			"link_from_location",
+			"os",
+			"abspath",
+			"link_from_location",
+			"print",
+			"link",
+			"clang_type",
+			"link",
+			"href",
+			"DECLARATION_TEMPLATE",
+			"CODE_TEMPLATE",
+			"on_open_declaration",
+			"show_popup",
+			"mdpopups",
+			"show_popup",
+			"show",
+			"begin_show_info_job",
+			"flags_sources",
+			"tools",
+			"ThreadJob",
+			"info_finished",
+			"show",
+			"on_open_declaration",
+			"show",
+			"on_open_declaration",
+			"view_config_manager",
+			"info_finished",
+			"on_open_declaration",
+			"trigger_get_declaration_location",
+			"declaration_fo",
+			"Popup",
+			"show",
+			"on_navigate",
+			"sublime",
+			"Declaration",
+			"view_config_manager",
+			"trigger_completion",
+			"completion_finished",
+			"sublime_plugin",
+			"sublime",
+			"\\\\",
+			"_ooOoo_",
+			"1000",
+			"F",
+			"E",
+			"D",
+			"C",
+			"B",
+			"MadelungFFC",
+			"MadelungSC48",
+			"n₁",
+			"MadelungSC8",
+			"MadelungFFC8",
+			"MadelungFFC48",
+			"MadelungSC48",
+			"MadelungFFC48",
+			"MadelungFFC8",
+			"MadelungFFC48",
+			"G",
+			"(1 / 2)",
+			"(1 + √2/2 + √3/9)/16",
+			"1000",
+			"line",
+			"newline",
+			"E",
+			"D",
+			"C",
+			"B",
+			"A",
+			"F",
+			"E",
+			"MadelungFFC48",
+			"MadelungFFC8",
+			"MadelungFFC48",
+			"(3 + 3/√2 + 1/√3)",
+			"(3 + 3/√2 + 1/√3)/8",
+			"₃",
+			"√",
+			"₂",
+			"₃",
+			"<=",
+			"²",
+			"₂",
+			"₁",
+			"²",
+			"₁",
+			"pow_minus1",
+			"F",
+			"(1 + √2/2 + √3/9)",
+			"n32",
+			"₂",
+			"²",
+			"₅",
+			"₄",
+			"₁",
+			"pow_minus1",
+			"F",
+			"pow_minus1",
+			"n₃²",
+			"N²",
+			"与坐标轴平行的3条棱",
+			"n₂²",
+			"e₃",
+			"m₂",
+			"m₃",
+			"positive",
+			"m₄",
+			"m₁₂",
+			"₂",
+			"positive",
+			"pow_minus1",
+			"e₃",
+			"e₁",
+			"pow_minus1",
+			"e₁"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"\\1\\\\_\\2",
+			"w\\_\\1",
+			"m\\_\\1",
+			"sqrt(\\1)",
+			"vector.jl",
+			"isprimes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": true,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6122,
+								6122
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": true,
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": true,
+							"syntax": "Packages/Julia/Julia.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 71.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.FilesCount":
+	{
+		"height": 180.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 180.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 180.0
+	},
+	"pinned_build_system": "",
+	"project": "aaaa.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ai.js",
+				"Code\\AI\\2048-AI-master\\js\\ai.js"
+			],
+			[
+				"sqrt",
+				"Code\\C\\miniCode\\sqrt.c"
+			],
+			[
+				"prime",
+				"Code\\Julia\\primes.jl"
+			],
+			[
+				"2048",
+				"Game2048\\2048AI.py"
+			],
+			[
+				"cdecl",
+				"Code\\C\\miniCode\\cdecl.c"
+			],
+			[
+				"sublime",
+				"Sublime\\sublime.py"
+			],
+			[
+				"subime",
+				"Sublime\\sublime_plugin.py"
+			],
+			[
+				"tes.c",
+				"Code\\C\\CStyle\\test.c"
+			],
+			[
+				"int.jl",
+				"julia-master\\base\\int.jl"
+			],
+			[
+				"prime.jl",
+				"Code\\Julia\\primes.jl"
+			],
+			[
+				"test.c",
+				"Code\\C\\CStyle\\test.c"
+			],
+			[
+				"",
+				"julia-master\\base\\gmp.jl"
+			],
+			[
+				"gmp",
+				"julia-master\\deps\\gmp.mk"
+			],
+			[
+				"exec",
+				"Sublime\\Default\\exec.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\SublimeText3\\Data\\Packages\\User\\Projects\\chopin.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 283.333333333,
+		"last_filter": "ndigit",
+		"selected_items":
+		[
+			[
+				"ndigit",
+				"ndigits"
+			]
+		],
+		"width": 744.333333333
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
